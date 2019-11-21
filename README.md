@@ -1,6 +1,7 @@
 # kraken-api
 
 Проект выполнен с использованием Vue, Vue-cli и Boostrap-Vue.<br>
+Данные котировок: <a href="https://www.kraken.com/features/api">Kraken.com</a><br>
 
 <b>Контакты:</b><br>
 Почта:   owiii.dev@gmail.com<br>
