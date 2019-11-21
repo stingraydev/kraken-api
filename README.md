@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # kraken
 
 ## Project setup
@@ -28,7 +27,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# kraken-api
-Vue, Bootstrap-Vue, Vue CLI
->>>>>>> 8be7bd006a931b839d60cb81d642c49c8f820144
+
