@@ -1,4 +1,11 @@
-# kraken
+# kraken-api
+
+Проект выполнен с использованием Vue, Vue-cli и Boostrap-Vue.<br>
+
+<b>Контакты:</b><br>
+Почта:   owiii.dev@gmail.com<br>
+Телеграм: https://t.me/artem_owiii
+
 
 ## Project setup
 ```
